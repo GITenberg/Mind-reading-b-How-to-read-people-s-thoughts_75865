@@ -1,0 +1,31 @@
+_repo: Mind-reading-b-How-to-read-people-s-thoughts_75865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skinner, W. E. (William E.)
+    alias: Skinner, William E.
+    gutenberg_agent_id: '56146'
+    url: http://www.gutenberg.org/2009/agents/56146
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75865'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:639114
+pgterms:marc905: 20250118060739skinner
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aBoston :$bA. B. Courtney, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Multum in parvo library, vol. 3, no. 29, April 1896.
+subjects:
+- !lcsh 'Magic tricks -- Handbooks, manuals, etc.'
+- !lcc 'GV'
+- GITenberg
+title: 'Mind reading : $b How to read people''s thoughts'
+url: http://www.gutenberg.org/ebooks/75865
